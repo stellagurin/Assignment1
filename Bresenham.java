@@ -31,7 +31,7 @@ public class Bresenham extends JPanel {
         int x1,x2,y1,y2;
         String input;
         Scanner scanner = new Scanner(System.in);
-        System.out.println("Enter a name for the txt file (e.g. output.txt): ");
+        System.out.println("Enter a name for the text file (e.g. output.txt): ");
         input = scanner.nextLine();
         int count = 0;
 
